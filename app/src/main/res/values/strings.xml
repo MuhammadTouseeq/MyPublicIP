@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MyIP</string>
+    <string name="get_ip">GET IP ADDRESS</string>
+    <string name="you_wont_see_this">You wont see this</string>
+    <string name="no_connection_error">Unable to connect to internet</string>
 </resources>
